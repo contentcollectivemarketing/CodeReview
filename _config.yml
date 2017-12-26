@@ -1,0 +1,8 @@
+title: Codereview
+description: CodeReview is a GUI tool to perform code review written in Python3 and using Qt5.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
